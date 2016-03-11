@@ -1,1 +1,4 @@
-# nodeRenamer
+## nodeRenamer
+
+# 동영상, 자막화일 이름 같게 바꾸는 간단한 프로그램
+- node를 이용해서 연습삼아 만듬
