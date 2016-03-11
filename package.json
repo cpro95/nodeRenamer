@@ -1,5 +1,5 @@
 {
-  "name": "node-exam",
+  "name": "nodeRenamer",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -8,7 +8,7 @@
   },
   "keywords": [
     "node",
-    "example"
+    "Renamer"
   ],
   "author": "cpro95@gmail.com",
   "license": "ISC"
